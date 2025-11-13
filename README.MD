@@ -24,7 +24,6 @@ Acesse a versão interativa do eBook: <COLE_AQUI_O_LINK_GAMMA>
 
 ## 🧾 Créditos e Ferramentas
 - Conteúdo gerado com **ChatGPT (assistente)**  
-- Capa criada com **Midjourney**  
 - Layout e publicação com **Gamma.app**
 
 ---

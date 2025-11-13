@@ -1,0 +1,59 @@
+Prompt ChatGPT (conteúdo):
+"Crie o sumário e o conteúdo para 'Dados que Contam Histórias'..."
+
+Prompt Gamma (documento):
+"Crie um eBook moderno e profissional com o título “Dados que Contam Histórias: a arte de comunicar com números”.
+
+🎯 Objetivo: O eBook deve mostrar como os dados podem ser transformados em histórias significativas e inspiradoras. Ele deve unir os mundos da análise de dados, da comunicação e do design — mostrando que contar histórias com dados é uma habilidade essencial para profissionais de dados.
+
+🧩 Tom e estilo:
+
+Linguagem clara, envolvente e acessível para iniciantes em Ciência de Dados
+
+Tom humano e inspirador (evitar jargões técnicos)
+
+Equilíbrio entre educativo e motivacional
+
+Escrito em português do Brasil
+
+Visual moderno e elegante
+
+🎨 Estilo visual:
+
+Design moderno, minimalista e tecnológico
+
+Layout limpo, com aparência futurista e profissional
+
+Paleta de cores em azul, verde-água (teal) e cinza
+
+Tipografia clara e de destaque
+
+Incluir a imagem da capa (gerada no Midjourney) na primeira página
+
+Usar ícones ou elementos visuais abstratos que representem tecnologia, comunicação e dados
+
+📚 Estrutura sugerida:
+
+Capa / Página de título
+
+Título: “Dados que Contam Histórias: a arte de comunicar com números”
+
+Autora: Agatha Cristina Pereira Soares
+
+Subtítulo: eBook criado com Inteligência Artificial (ChatGPT, Midjourney e Gamma.app)
+
+Introdução — Quando números ganham voz Explique como os dados estão em todo lugar e como o poder das histórias ajuda as pessoas a entender informações complexas.
+
+Capítulo 1 — A magia da narrativa nos dados Mostre por que o storytelling é essencial na Ciência de Dados e como ele transforma análises em conexão.
+
+Capítulo 2 — Traduzindo números em significado Explique como profissionais de dados dão sentido aos números e criam mensagens compreensíveis para todos.
+
+Capítulo 3 — Visualização: o palco onde os dados se apresentam Fale sobre o papel da visualização de dados na comunicação de mensagens de forma eficaz e emocional.
+
+Capítulo 4 — Empatia, clareza e propósito Mostre a importância de entender o público e comunicar com empatia, clareza e propósito.
+
+Capítulo 5 — Histórias que transformaram decisões Apresente exemplos reais (como Netflix e Google Maps) de como contar histórias com dados pode mudar decisões e estratégias.
+
+Conclusão — O futuro dos contadores de histórias de dados Encerre com uma mensagem inspiradora sobre o papel das pessoas que sabem unir dados e emoção para transformar o mundo.
+
+📎 Nota final: “Este eBook foi criado como parte do desafio da DIO, integrando ChatGPT para o conteúdo e Gamma.app para o design e publicação.”
